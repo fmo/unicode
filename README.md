@@ -3,7 +3,7 @@ Tiny Go tool that shows how any character is represented in Unicode, UTF-8, UTF-
 ### 🧩 Install
 
 ```bash
-go install github.com/fmo/unicode-inspector@latest
+go install github.com/fmo/unicode@latest
 ```
 
 ## Usage
