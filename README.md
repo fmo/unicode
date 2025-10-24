@@ -10,6 +10,10 @@ go install github.com/fmo/unicode@latest
 
 `go run main.go 👍🏾`
 
+or from the binary
+
+`./unicode 👍🏾`
+
 Output:
 
 ```
