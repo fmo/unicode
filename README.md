@@ -4,6 +4,7 @@ Tiny Go tool that shows how any character is represented in Unicode, UTF-8, UTF-
 
 ```bash
 go install github.com/fmo/unicode-inspector@latest
+```
 
 ## Usage
 
