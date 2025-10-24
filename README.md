@@ -8,19 +8,19 @@ go install github.com/fmo/unicode@latest
 
 ## Usage
 
-`go run main.go 👍🏾`
+`go run main.go 🚀`
 
 or from the binary
 
-`./unicode 👍🏾`
+`./unicode 🚀`
 
 Output:
 
 ```
-Character: 👍🏾
+Character: 🚀
 
-Unicode code point(s): [U+1F44D U+1F3FE] <br />
-UTF8 bytes: 0XF0 0X9F 0X91 0X8D 0XF0 0X9F 0X8F 0XBE <br />
-UTF16 units: 0x[d83d dc4d d83c dffe] <br />
-UTF32 code points: [U+1F44D U+1F3FE]
+Unicode code point(s): [U+1F680]
+UTF8 bytes: 0XF0 0X9F 0X9A 0X80
+UTF16 units: 0x[d83d de80]
+UTF32 code points: [U+1F680]
 ```
