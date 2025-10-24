@@ -1,4 +1,4 @@
-This small utility gives you the encoding representations of whatever unicode you are asking for. 
+Tiny Go tool that shows how any character is represented in Unicode, UTF-8, UTF-16, and UTF-32 encodings.
 
 ## Usage
 
